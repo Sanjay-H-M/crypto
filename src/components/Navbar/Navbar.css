@@ -1,0 +1,25 @@
+@media (max-width: 900px) {
+    .Navbar{
+        padding: 20px 8%;
+    }
+    .Navbar button{
+        gap: 8px;
+        padding: 8px 18px;
+    }
+}
+
+@media (max-width: 768px) {
+    .Navbar{
+        padding: 20px 5%;
+    }
+    
+    .Navbar button img{
+        width: 12px;
+    }
+
+}
+@media (max-width:300px) {
+    .logo{
+        display: none;
+    }
+}
